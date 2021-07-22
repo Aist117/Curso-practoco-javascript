@@ -1,2 +1,2 @@
-# Curso-pract1co-javascript
+# Curso-practico-javascript
 curso basico de javascript
